@@ -4,13 +4,12 @@
 http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1, group-title="Криминал", Совершенно секретно
-https://tvcdnpotok.com/MjmEVqyMdZzRrP1tk-d6-Q/546/1736539297/index.m3u8
-
+https://rec102.24h.tv/hlsjwt/6703ffea502c65726056661cc278a776bafdbff5-224-0-24h265091529-1-3557743308-1736549093-e128-tNGGi95Z9NUZjT7o7JEcgc6jcIiAqlzd8iPT8lpqH9U/index.m3u8
 #EXTINF:-1, group-title="Ужасы, мистика", tvg-logo="https://supersvetodiod.github.io/1/logo/koshmar-hd.png",Кошмар HD
 http://hlss.goodgame.ru/hls/204709.m3u8
 
 #EXTINF:-1, group-title="Ужасы, мистика", Кино Ужастик
-https://s.catcast.tv/content/38896/index.m3u8?token=f50b3082403e7b314d8a036d252acefa
+https://s.catcast.tv/content/38896/index.m3u8
 
 #EXTINF:-1, group-title="Ужасы, мистика", КиноМистика
 https://v2.catcast.tv/content/40783/index.m3u8
