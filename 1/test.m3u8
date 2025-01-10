@@ -3,8 +3,27 @@
 #EXTINF:-1, group-title="Криминал", tvg-logo="https://supersvetodiod.github.io/1/logo/ID.png", ID Xtra
 http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1, group-title="Криминал", Совершенно секретно
+https://tvcdnpotok.com/MjmEVqyMdZzRrP1tk-d6-Q/546/1736539297/index.m3u8
+
 #EXTINF:-1, group-title="Ужасы, мистика", tvg-logo="https://supersvetodiod.github.io/1/logo/koshmar-hd.png",Кошмар HD
 http://hlss.goodgame.ru/hls/204709.m3u8
 
 #EXTINF:-1, group-title="Ужасы, мистика", Кино Ужастик
 https://s.catcast.tv/content/38896/index.m3u8?token=f50b3082403e7b314d8a036d252acefa
+
+#EXTINF:-1, group-title="Ужасы, мистика", КиноМистика
+https://v2.catcast.tv/content/40783/index.m3u8
+
+#EXTINF:-1, group-title="Ужасы, мистика", Страшное HD
+https://tvcdnpotok.com/m2bDPwjztKpqja9p-JOwDQ/216/1736532744/index.m3u8
+
+#EXTINF:-1, group-title="Ужасы, мистика", НСТ
+https://tvcdnpotok.com/F0WlX3TDzIyvHZGr5SAFLA/127/1736532950/index.m3u8
+
+#EXTINF:-1, group-title="Ужасы, мистика", Остросюжетное HD
+https://tvcdnpotok.com/S3chWUSRxBEQcVl8SdJb6A/578/1736537196/index.m3u8
+
+#EXTINF:-1, group-title="Ужасы, мистика", Шокирующее HD
+http://5.troya.info:34000/ch134/mono.m3u8?token=rl_kosta.2PUWOpTxJxxtNJs_4BM68BwOmCl5JJ6eTCZbvVYRKg34fo8o-QJuM3IXDXah_Xv9
+
