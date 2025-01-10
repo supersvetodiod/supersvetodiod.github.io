@@ -1,7 +1,9 @@
 # EXTM3U
 
-# EXTINF:-1, group-title="Криминал", tvg-logo="https://supersvetodiod.github.io/1/logo/ID.png", ID Xtra
+#EXTGRP: Криминал
+# EXTINF:-1, tvg-logo="https://supersvetodiod.github.io/1/logo/ID.png", ID Xtra
 http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
-# EXTINF:-1, group-title="Ужасы, мистика", tvg-logo="https://supersvetodiod.github.io/1/logo/koshmar-hd.png",Кошмар HD
+#EXTGRP: Ужасы, мистика
+# EXTINF:-1, tvg-logo="https://supersvetodiod.github.io/1/logo/koshmar-hd.png",Кошмар HD
 http://hlss.goodgame.ru/hls/204709.m3u8
