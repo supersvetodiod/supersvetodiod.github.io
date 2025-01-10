@@ -1,7 +1,7 @@
 #EXTM3U
 
-# EXTGRP: Криминал
-# EXTINF:-1, tvg-logo="https://supersvetodiod.github.io/1/logo/ID.png", ID Xtra
+#EXTGRP: Криминал
+#EXTINF:-1, tvg-logo="https://supersvetodiod.github.io/1/logo/ID.png", ID Xtra
 http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
 # EXTGRP: Ужасы, мистика
